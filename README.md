@@ -1,0 +1,1 @@
+Hi visitors! My name is Will, and I am currently pursuing a Biomedical Engineering Degree at the University of Iowa. I have recently signed up for Github for a side project to increase my proficiency in programming. 
